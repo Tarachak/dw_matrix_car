@@ -1,2 +1,2 @@
-# dw_matrix_car
+# dw_matrix_car_kursik_transformacja
 Prognozowanie cen furek
